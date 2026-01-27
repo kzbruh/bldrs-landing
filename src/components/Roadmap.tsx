@@ -11,7 +11,7 @@ interface RoadmapItem {
 const roadmapItems: RoadmapItem[] = [
   {
     status: "progress",
-    text: "gather builders across Poland — 20+ events and counting",
+    text: "gather builders across Poland — 17 events and counting",
   },
   {
     status: "progress",
