@@ -3,14 +3,22 @@
 import { useEffect, useState } from "react";
 import attendees from "./attendees.json";
 
+type Experience = { company: string; role: string; dates: string };
+type Education = { school: string; degree: string };
+
 type Attendee = {
   name: string;
   initials: string;
-  role: "founder" | "operator" | "investor" | "student" | string;
-  title?: string;
-  company?: string;
+  role: string;
+  domain: "climate" | "health" | "education" | "ai" | "other" | string;
   headline?: string;
-  location?: string;
+  about?: string;
+  current_role?: string;
+  current_company?: string;
+  past_ex?: string[];
+  edu_tags?: string[];
+  experiences?: Experience[];
+  educations?: Education[];
   avatar?: string;
   linkedin?: string;
   username?: string;
@@ -20,28 +28,12 @@ type Attendee = {
 const PASSWORD = "tfg2026";
 const STORAGE_KEY = "tfg-unlocked";
 
-const ROLE_LABEL: Record<string, string> = {
-  founder: "founder",
-  operator: "operator",
-  investor: "investor",
-  student: "student/talent",
-};
-
-const ROLE_COLOR: Record<string, string> = {
-  founder: "#E8B64C",
-  operator: "#8EC3F0",
-  investor: "#A0E8A0",
-  student: "#D9A0E8",
-};
-
 export default function TechForGoodPage() {
   const [unlocked, setUnlocked] = useState(false);
 
   useEffect(() => {
     try {
-      if (localStorage.getItem(STORAGE_KEY) === "1") {
-        setUnlocked(true);
-      }
+      if (localStorage.getItem(STORAGE_KEY) === "1") setUnlocked(true);
     } catch {}
   }, []);
 
@@ -63,9 +55,7 @@ function Gate({ onUnlock }: { onUnlock: () => void }) {
         localStorage.setItem(STORAGE_KEY, "1");
       } catch {}
       onUnlock();
-    } else {
-      setErr(true);
-    }
+    } else setErr(true);
   };
 
   return (
@@ -92,14 +82,7 @@ function Gate({ onUnlock }: { onUnlock: () => void }) {
         <div style={{ fontSize: "13px", color: "#666" }}>
           [bldrs] · tech for good · warsaw
         </div>
-        <div
-          style={{
-            fontSize: "15px",
-            textAlign: "center",
-            lineHeight: 1.5,
-            marginBottom: "8px",
-          }}
-        >
+        <div style={{ fontSize: "15px", textAlign: "center", lineHeight: 1.5, marginBottom: "8px" }}>
           enter password to view attendee list_
         </div>
         <input
@@ -138,37 +121,20 @@ function Gate({ onUnlock }: { onUnlock: () => void }) {
         >
           unlock →
         </button>
-        {err && (
-          <div style={{ fontSize: "12px", color: "#cc3333" }}>
-            wrong password
-          </div>
-        )}
+        {err && <div style={{ fontSize: "12px", color: "#cc3333" }}>wrong password</div>}
       </form>
     </main>
   );
 }
 
 function Attendees({ data }: { data: Attendee[] }) {
-  const [filter, setFilter] = useState<string>("all");
-
-  const filters = [
-    { key: "all", label: "all" },
-    { key: "founder", label: "founders" },
-    { key: "operator", label: "operators" },
-    { key: "investor", label: "investors" },
-    { key: "student", label: "students" },
-  ];
-
-  const visible = filter === "all" ? data : data.filter((a) => a.role === filter);
-  const counts: Record<string, number> = { all: data.length };
-  for (const a of data) counts[a.role] = (counts[a.role] || 0) + 1;
-
+  const [expanded, setExpanded] = useState(false);
   return (
     <main
       style={{
         minHeight: "100vh",
         padding: "40px 20px 80px",
-        maxWidth: "1100px",
+        maxWidth: "1200px",
         margin: "0 auto",
       }}
     >
@@ -178,95 +144,52 @@ function Attendees({ data }: { data: Attendee[] }) {
           style={{
             fontSize: "12px",
             color: "#666",
-            letterSpacing: "0.05em",
-            marginBottom: "8px",
+            letterSpacing: "0.08em",
+            marginBottom: "10px",
           }}
         >
-          [bldrs] · warsaw · april 21, 2026
+          [bldrs] · Warsaw · April 21, 2026
         </div>
         <h1
           style={{
-            fontSize: "clamp(32px, 6vw, 52px)",
+            fontSize: "clamp(22px, 2.6vw, 28px)",
             fontWeight: 500,
-            letterSpacing: "-0.02em",
-            lineHeight: 1.05,
-            margin: "0 0 16px",
+            lineHeight: 1.3,
+            margin: "0 0 14px",
+            color: "#fff",
           }}
         >
-          TECH FOR GOOD
-          <span style={{ color: "#666" }}> / </span>
-          <span style={{ color: "#E8B64C" }}>dinner</span>
+          Tech For Good
+          <span style={{ color: "#3a4a36" }}> / </span>
+          <span style={{ color: "#8FA883", fontWeight: 400 }}>dinner attendee list</span>
         </h1>
         <p
           style={{
-            fontSize: "15px",
-            color: "#999",
-            maxWidth: "620px",
-            lineHeight: 1.6,
+            fontSize: "12.5px",
+            color: "#666",
+            lineHeight: 1.5,
             margin: 0,
           }}
         >
-          a private dinner for people building what matters —
-          climate, education, health &amp; adjacent problems worth solving.
-          one long table. no panels, no pitches.
+          For people building what matters — climate, education, health &amp; adjacent problems worth solving.
         </p>
-      </div>
-
-      {/* Filters */}
-      <div
-        style={{
-          display: "flex",
-          gap: "8px",
-          flexWrap: "wrap",
-          marginBottom: "24px",
-          paddingBottom: "16px",
-          borderBottom: "1px solid #1a1a1a",
-        }}
-      >
-        {filters.map((f) => {
-          const active = filter === f.key;
-          const count = counts[f.key] || 0;
-          return (
-            <button
-              key={f.key}
-              onClick={() => setFilter(f.key)}
-              style={{
-                padding: "6px 12px",
-                background: active ? "#fff" : "transparent",
-                color: active ? "#000" : "#999",
-                border: `1px solid ${active ? "#fff" : "#333"}`,
-                fontFamily: "inherit",
-                fontSize: "13px",
-                cursor: "pointer",
-                display: "flex",
-                alignItems: "center",
-                gap: "6px",
-              }}
-            >
-              {f.label}
-              <span
-                style={{
-                  fontSize: "11px",
-                  color: active ? "#666" : "#555",
-                }}
-              >
-                {count}
-              </span>
-            </button>
-          );
-        })}
       </div>
 
       {/* Grid */}
       <div
         style={{
           display: "grid",
-          gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))",
+          gridTemplateColumns: "repeat(auto-fill, minmax(320px, 1fr))",
           gap: "16px",
         }}
       >
-        {visible.map((a) => (
-          <Card key={a.username || a.name} a={a} />
+        {data.map((a) => (
+          <Card
+            key={a.username || a.name}
+            a={a}
+            expanded={expanded}
+            onToggle={() => setExpanded((v) => !v)}
+          />
         ))}
       </div>
 
@@ -286,42 +209,62 @@ function Attendees({ data }: { data: Attendee[] }) {
         <div style={{ letterSpacing: "0.05em" }}>
           hosted by · [bldrs] · tilia impact ventures · sigma² · portfolion
         </div>
-        <div>
-          kontakt wino &amp; bistro · warszawa · 7:00 pm → 11:00 pm
-        </div>
+        <div>kontakt wino &amp; bistro · warszawa · 7:00 pm → 11:00 pm</div>
       </div>
     </main>
   );
 }
 
-function Card({ a }: { a: Attendee }) {
-  const color = ROLE_COLOR[a.role] || "#999";
+function Card({
+  a,
+  expanded,
+  onToggle,
+}: {
+  a: Attendee;
+  expanded: boolean;
+  onToggle: () => void;
+}) {
+  const headline = a.headline || "";
+  const about = (a.about || "").trim();
+
+  const hasMore = Boolean(
+    about ||
+      (a.experiences && a.experiences.length > 0) ||
+      (a.educations && a.educations.length > 0)
+  );
+
   return (
     <div
+      className="tfg-card"
+      onClick={() => hasMore && onToggle()}
       style={{
         border: "1px solid #1a1a1a",
         background: "#050505",
-        padding: "20px",
+        padding: "18px",
         display: "flex",
         flexDirection: "column",
-        gap: "14px",
+        gap: "12px",
         position: "relative",
+        cursor: hasMore ? "pointer" : "default",
+        transition: "border-color 0.15s, background 0.15s",
       }}
     >
       {a.is_host && (
         <div
           style={{
             position: "absolute",
-            top: "12px",
+            top: "10px",
             right: "12px",
             fontSize: "10px",
-            letterSpacing: "0.05em",
-            color: "#E8B64C",
+            letterSpacing: "0.08em",
+            color: "#8FA883",
           }}
         >
           host
         </div>
       )}
+
+      {/* Top row */}
       <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
         <Avatar a={a} />
         <div style={{ minWidth: 0, flex: 1 }}>
@@ -333,64 +276,194 @@ function Card({ a }: { a: Attendee }) {
               whiteSpace: "nowrap",
               overflow: "hidden",
               textOverflow: "ellipsis",
+              paddingRight: a.is_host ? "28px" : "0",
             }}
           >
             {a.name}
           </div>
-          <div
-            style={{
-              fontSize: "11px",
-              color,
-              letterSpacing: "0.05em",
-              marginTop: "2px",
-            }}
-          >
-            {ROLE_LABEL[a.role] || a.role}
-          </div>
+          {(a.current_role || a.current_company) && (
+            <div
+              style={{
+                fontSize: "12px",
+                color: "#999",
+                lineHeight: 1.4,
+                marginTop: "3px",
+                whiteSpace: "nowrap",
+                overflow: "hidden",
+                textOverflow: "ellipsis",
+              }}
+            >
+              {a.current_role}
+              {a.current_role && a.current_company && (
+                <span style={{ color: "#555" }}> @ </span>
+              )}
+              <span style={{ color: "#ddd" }}>{a.current_company}</span>
+            </div>
+          )}
         </div>
       </div>
-      {a.headline && (
+
+      {/* Headline */}
+      {headline && (
         <div
           style={{
-            fontSize: "13px",
-            color: "#bbb",
-            lineHeight: 1.5,
+            fontSize: "12.5px",
+            color: "#aaa",
+            lineHeight: 1.55,
             display: "-webkit-box",
             WebkitLineClamp: 3,
             WebkitBoxOrient: "vertical",
             overflow: "hidden",
           }}
         >
-          {a.headline}
+          {headline}
         </div>
       )}
+
+      {/* Expanded content */}
+      {expanded && (
+        <div
+          style={{
+            marginTop: "4px",
+            paddingTop: "12px",
+            borderTop: "1px solid #1a1a1a",
+            display: "flex",
+            flexDirection: "column",
+            gap: "14px",
+          }}
+        >
+          <div>
+            <div
+              style={{
+                fontSize: "10px",
+                letterSpacing: "0.1em",
+                color: "#555",
+                marginBottom: "6px",
+              }}
+            >
+              About (from LinkedIn)
+            </div>
+            {about ? (
+              <div
+                style={{
+                  fontSize: "12.5px",
+                  color: "#aaa",
+                  lineHeight: 1.55,
+                  whiteSpace: "pre-wrap",
+                }}
+              >
+                {about}
+              </div>
+            ) : (
+              <div
+                style={{
+                  fontSize: "12px",
+                  color: "#444",
+                  fontStyle: "italic",
+                  lineHeight: 1.5,
+                }}
+              >
+                — no about section on LinkedIn —
+              </div>
+            )}
+          </div>
+          {a.experiences && a.experiences.length > 0 && (
+            <div>
+              <div
+                style={{
+                  fontSize: "10px",
+                  letterSpacing: "0.1em",
+                  color: "#555",
+                  marginBottom: "6px",
+                }}
+              >
+                EXPERIENCE
+              </div>
+              <div style={{ display: "flex", flexDirection: "column", gap: "6px" }}>
+                {a.experiences.map((e, i) => (
+                  <div key={i} style={{ fontSize: "12px", lineHeight: 1.4 }}>
+                    <span style={{ color: "#ddd" }}>{e.role || "—"}</span>
+                    {e.company && (
+                      <>
+                        <span style={{ color: "#555" }}> @ </span>
+                        <span style={{ color: "#fff" }}>{e.company}</span>
+                      </>
+                    )}
+                    {e.dates && (
+                      <div style={{ color: "#555", fontSize: "10px", marginTop: "1px" }}>
+                        {e.dates}
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {a.educations && a.educations.length > 0 && (
+            <div>
+              <div
+                style={{
+                  fontSize: "10px",
+                  letterSpacing: "0.1em",
+                  color: "#555",
+                  marginBottom: "6px",
+                }}
+              >
+                EDUCATION
+              </div>
+              <div style={{ display: "flex", flexDirection: "column", gap: "4px" }}>
+                {a.educations.map((e, i) => (
+                  <div key={i} style={{ fontSize: "12px", lineHeight: 1.4 }}>
+                    <span style={{ color: "#ddd" }}>{e.school}</span>
+                    {e.degree && (
+                      <div style={{ color: "#777", fontSize: "11px", marginTop: "1px" }}>
+                        {e.degree}
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* Bottom bar: expand hint + LI icon */}
       <div
         style={{
           marginTop: "auto",
-          paddingTop: "12px",
-          borderTop: "1px solid #1a1a1a",
+          paddingTop: "10px",
+          borderTop: "1px solid #121212",
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
         }}
       >
-        <span style={{ fontSize: "11px", color: "#555" }}>
-          {a.location || "\u00a0"}
-        </span>
+        {hasMore ? (
+          <span style={{ fontSize: "10px", color: "#444", letterSpacing: "0.05em" }}>
+            {expanded ? "click to collapse all" : "click to expand all"}
+          </span>
+        ) : (
+          <span />
+        )}
         {a.linkedin && (
           <a
             href={a.linkedin}
             target="_blank"
             rel="noopener noreferrer"
+            onClick={(e) => e.stopPropagation()}
+            className="tfg-li"
             style={{
-              fontSize: "11px",
-              color: "#999",
+              fontSize: "10px",
+              color: "#888",
               textDecoration: "none",
-              border: "1px solid #333",
-              padding: "4px 10px",
+              border: "1px solid #222",
+              padding: "3px 8px",
+              letterSpacing: "0.05em",
             }}
           >
-            linkedin →
+            linkedin ↗
           </a>
         )}
       </div>
