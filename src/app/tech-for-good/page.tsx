@@ -73,17 +73,17 @@ function Gate({ onUnlock }: { onUnlock: () => void }) {
         style={{
           display: "flex",
           flexDirection: "column",
-          gap: "16px",
+          gap: "14px",
           alignItems: "center",
-          maxWidth: "360px",
+          maxWidth: "440px",
           width: "100%",
         }}
       >
-        <div style={{ fontSize: "13px", color: "#666" }}>
+        <div style={{ fontSize: "12px", color: "#666", letterSpacing: "0.05em" }}>
           [bldrs] · Tech For Good · Warsaw
         </div>
-        <div style={{ fontSize: "15px", textAlign: "center", lineHeight: 1.5, marginBottom: "8px" }}>
-          Enter password to view the attendee list
+        <div style={{ fontSize: "14px", color: "#ccc", textAlign: "center", marginBottom: "8px" }}>
+          Enter password to view attendees
         </div>
         <input
           type="password"
