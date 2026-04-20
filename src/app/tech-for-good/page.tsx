@@ -80,10 +80,10 @@ function Gate({ onUnlock }: { onUnlock: () => void }) {
         }}
       >
         <div style={{ fontSize: "13px", color: "#666" }}>
-          [bldrs] · tech for good · warsaw
+          [bldrs] · Tech For Good · Warsaw
         </div>
         <div style={{ fontSize: "15px", textAlign: "center", lineHeight: 1.5, marginBottom: "8px" }}>
-          enter password to view attendee list_
+          Enter password to view the attendee list
         </div>
         <input
           type="password"
@@ -93,7 +93,7 @@ function Gate({ onUnlock }: { onUnlock: () => void }) {
             setVal(e.target.value);
             setErr(false);
           }}
-          placeholder="password"
+          placeholder="Password"
           style={{
             width: "100%",
             padding: "10px 14px",
@@ -119,7 +119,7 @@ function Gate({ onUnlock }: { onUnlock: () => void }) {
             fontWeight: 500,
           }}
         >
-          unlock →
+          Unlock →
         </button>
         {err && <div style={{ fontSize: "12px", color: "#cc3333" }}>wrong password</div>}
       </form>
