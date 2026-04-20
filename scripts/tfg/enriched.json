@@ -1,0 +1,1114 @@
+[
+  {
+    "input": "m4teuk",
+    "success": true,
+    "username": "m4teuk",
+    "publicIdentifier": "m4teuk",
+    "fullName": "Mateusz Kussowski",
+    "firstName": "Mateusz",
+    "lastName": "Kussowski",
+    "headline": "Software Engineer @ Huawei | CS Student @ University of Warsaw",
+    "about": "My passion for algorithm design began with competitive programming in high school. This drive led me to become a multi-year Laureate and Finalist in the Polish National Olympiad in Informatics and a Finalist in the Polish Olympiad in Artificial Intelligence.\n\nI'm currently building on this foundation as a Computer Science student at the University of Warsaw, where I maintain a 4.85 GPA (Top 5%).\n\n",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQH2IWZsVpLFQg/profile-displayphoto-scale_400_400/B4DZmwpFKgJYAg-/0/1759605184143?e=1778112000&v=beta&t=kiWtqW39T_qF58cpQUEub9dnJ0pe5q0WicLkpkmwG0M",
+    "profileUrl": "https://www.linkedin.com/in/m4teuk",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "",
+    "current_company_industry": "",
+    "current_company_url": "",
+    "experiences": [
+      {
+        "title": "Huawei",
+        "subtitle": "undefined · 6 mos",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "input": "jan-leda",
+    "success": true,
+    "username": "jan-leda",
+    "publicIdentifier": "jan-leda",
+    "fullName": "John Leda",
+    "firstName": "John",
+    "lastName": "Leda",
+    "headline": "Building Math-First AGI",
+    "about": "Building Math-First AGI\n\nCurrently in Stealth Mode\n\nLast 3 Years in Deep-Tech\n\nLet's connect",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQGZDbFiZBN_Ew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1659006198850?e=1778112000&v=beta&t=iY2fWgbbv49mw63_7gR-_L3wnw1dHBI3eDW0gxtayJ8",
+    "profileUrl": "https://www.linkedin.com/in/jan-leda",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "Stealth",
+    "current_company_industry": "Software Development",
+    "current_company_url": "https://www.linkedin.com/company/steath",
+    "experiences": [
+      {
+        "title": "Co-Founder",
+        "subtitle": "Stealth · Full-time",
+        "caption": "Nov 2025 - Present · 2 mos"
+      },
+      {
+        "title": "Analyst",
+        "subtitle": "HORAIZON Labs · Full-time",
+        "caption": "Jan 2024 - Nov 2025 · 1 yr 10 mos"
+      },
+      {
+        "title": "Corporate Partnerships Team Member",
+        "subtitle": "Innovations Hub Foundation · Part-time",
+        "caption": "Nov 2023 - Nov 2025 · 2 yrs"
+      }
+    ]
+  },
+  {
+    "input": "rgutkowski",
+    "success": true,
+    "username": "rgutkowski",
+    "publicIdentifier": "rgutkowski",
+    "fullName": "Rafael Gutkowski",
+    "firstName": "Rafael",
+    "lastName": "Gutkowski",
+    "headline": "Engineering, Society, and System Design",
+    "about": "",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQHajsKt9r6S6w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1657059724684?e=1778112000&v=beta&t=_rBasAq1a2hEmX07xO5vCZqOfezOtK3EWJJCOtsJXzY",
+    "profileUrl": "https://www.linkedin.com/in/rgutkowski",
+    "addressWithCountry": "New York City Metropolitan Area United States",
+    "current_company_name": "",
+    "current_company_industry": "",
+    "current_company_url": "",
+    "experiences": [
+      {
+        "title": "Head of Software Engineering",
+        "subtitle": "Solvemed Group · Full-time",
+        "caption": "2021 - 2024 · 3 yrs"
+      },
+      {
+        "title": "Staff Engineer",
+        "subtitle": "ovos",
+        "caption": "2018 - 2020 · 2 yrs"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "subtitle": "Bethesda Game Studios",
+        "caption": "2016 - 2018 · 2 yrs"
+      }
+    ]
+  },
+  {
+    "input": "rochminska",
+    "success": true,
+    "username": "rochminska",
+    "publicIdentifier": "rochminska",
+    "fullName": "Natalia Rochminska",
+    "firstName": "Natalia",
+    "lastName": "Rochminska",
+    "headline": "University of Oxford | PEI",
+    "about": "only connect - Zbigniew Pełczyński",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGPRxrphFPwbA/profile-displayphoto-shrink_400_400/B4DZqTCYh1GwAg-/0/1763403467325?e=1778112000&v=beta&t=n1HiVi1hWpG8kgnSO9YypsyZuess3Wo5uAwWvlnPmMU",
+    "profileUrl": "https://www.linkedin.com/in/rochminska",
+    "addressWithCountry": "Oxford, England, United Kingdom United Kingdom",
+    "current_company_name": "",
+    "current_company_industry": "",
+    "current_company_url": "",
+    "experiences": [
+      {
+        "title": "Co-Founder",
+        "subtitle": "Arcadian  · Full-time",
+        "caption": "Sep 2024 - Present · 1 yr 4 mos"
+      },
+      {
+        "title": "Private Equity Investment Analyst",
+        "subtitle": "Gain.pro · Full-time",
+        "caption": "Sep 2023 - Present · 2 yrs 4 mos"
+      },
+      {
+        "title": "Educational Consultant",
+        "subtitle": "Akademeia High School",
+        "caption": "Jan 2023 - Jan 2026 · 3 yrs"
+      }
+    ]
+  },
+  {
+    "input": "donat-",
+    "success": true,
+    "username": "donat-",
+    "publicIdentifier": "donat-",
+    "fullName": "Donát S.",
+    "firstName": "Donát",
+    "lastName": "S.",
+    "headline": "Pre-Seed & Seed VC Investor @ Portfolion",
+    "about": "Hungarian early-stage VC &amp; builder, investing mostly in teams with CEE ties.",
+    "profilePic": "",
+    "profileUrl": "https://www.linkedin.com/in/donat-",
+    "addressWithCountry": "Hungary undefined",
+    "current_company_name": "Portfolion",
+    "current_company_industry": "Venture Capital & Private Equity",
+    "current_company_url": "https://www.linkedin.com/company/portfolionvc/",
+    "experiences": [
+      {
+        "title": "VC",
+        "subtitle": "Portfolion · Full-time",
+        "caption": "Jan 2025 - Present · 1 yr"
+      },
+      {
+        "title": "Investor",
+        "subtitle": "Riptides",
+        "caption": "Apr 2025 - Present · 9 mos"
+      },
+      {
+        "title": "Investor",
+        "subtitle": "UVIONIX Innovations",
+        "caption": "Feb 2025 - Present · 11 mos"
+      }
+    ]
+  },
+  {
+    "input": "jakubkurek",
+    "success": true,
+    "username": "jakubkurek",
+    "publicIdentifier": "jakubkurek",
+    "fullName": "Jacob Kurek",
+    "firstName": "Jacob",
+    "lastName": "Kurek",
+    "headline": "Founder @BluBluStudios - Oscar-nominee, Sundance-winner | Co-founder @HeyFeelings | Member @Producers Guild of America | Creative & EdTech Entrepreneur",
+    "about": "Creative &amp; EdTech Entrepreneur.Co-CEO at Hey Feelings - A Scalable Ecosystem for Kids’ Social-Emotional Development. Play-Based Tools + SaaS Platform for Families, Therapists &amp; Educators.Founder at BluBlu Studios - an Academy Award® nominated, Sundance-winning creative studio crafting animation &amp; design for top-tier brands like The Academy, Disney, X, The Wall Street Journal, Riot Game",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQGFMy-Z4Ag3NQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517764241069?e=1778112000&v=beta&t=kVOMCXX30rRvbs7hqMi8hzoFKIOuqjApKuFWdm8_ypg",
+    "profileUrl": "https://www.linkedin.com/in/jakubkurek",
+    "addressWithCountry": "Chicago, Illinois, United States United States",
+    "current_company_name": "Producers Guild of America",
+    "current_company_industry": "Entertainment",
+    "current_company_url": "https://www.linkedin.com/company/producers-guild-of-america/",
+    "experiences": [
+      {
+        "title": "Member",
+        "subtitle": "Producers Guild of America",
+        "caption": "Oct 2025 - Present · 3 mos"
+      },
+      {
+        "title": "Co-CEO",
+        "subtitle": "Hey Feelings · Full-time",
+        "caption": "Jan 2023 - Present · 3 yrs"
+      },
+      {
+        "title": "Founder",
+        "subtitle": "BluBlu Studios",
+        "caption": "Dec 2014 - Present · 11 yrs 1 mo"
+      }
+    ]
+  },
+  {
+    "input": "a-pajewski",
+    "success": true,
+    "username": "a-pajewski",
+    "publicIdentifier": "a-pajewski",
+    "fullName": "Aleks Pajewski",
+    "firstName": "Aleks",
+    "lastName": "Pajewski",
+    "headline": "Co-Founder & CPO @ VitVio | Forbes 30u30 | Sigma²",
+    "about": "As a Co-Founder and CPO at VitVio, my mission is to deploy products to enhance the safety and efficiency of hospitals. We achieve this by utilizing computer vision and ambient sensing to digitize operating rooms in real-time 3D. This provides clear insights into who is performing which tasks, when, and why during surgery. Our system then automates routine tasks, such as logging surgical phases and",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGslzUkTta84Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724951386601?e=1778112000&v=beta&t=HpU8YChqfcnqxkBoV7vF011IKCQFZwa4gHYgJ3pyvcQ",
+    "profileUrl": "https://www.linkedin.com/in/a-pajewski",
+    "addressWithCountry": "London Area, United Kingdom United Kingdom",
+    "current_company_name": "VitVio",
+    "current_company_industry": "Hospital & Health Care",
+    "current_company_url": "https://www.linkedin.com/company/vitvio/",
+    "experiences": [
+      {
+        "title": "Co-Founder & Chief Product Officer",
+        "subtitle": "VitVio · Full-time",
+        "caption": "Jun 2023 - Present · 2 yrs 7 mos"
+      },
+      {
+        "title": "Fellow",
+        "subtitle": "Sigma Squared Society",
+        "caption": "Mar 2024 - Present · 1 yr 10 mos"
+      },
+      {
+        "title": "AiFi Inc.",
+        "subtitle": "Full-time · 3 yrs",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "input": "kamilsabatowski",
+    "success": true,
+    "username": "kamilsabatowski",
+    "publicIdentifier": "kamilsabatowski",
+    "fullName": "Kamil Sabatowski",
+    "firstName": "Kamil",
+    "lastName": "Sabatowski",
+    "headline": "Venture Builder  |  Longevity Podcast Host",
+    "about": "Industry agnostic highly proactive business leader with an entrepreneurial spirit specializing in executing growth strategy, agile delivery, tech product management and organization design (venture building). I dedicate my professional life to strategic management in innovative technology projects and professional services industry.\n\nRanked 6th in the 50 most creative people in business in Poland ",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHX2XnYkkiMEw/profile-displayphoto-shrink_800_800/B4DZWlFK0PHIAg-/0/1742231354521?e=1778112000&v=beta&t=_E9tzt3fnx8k2HmyZgQvZ1Y39g9BXeT3i7QovM7Qc6Q",
+    "profileUrl": "https://www.linkedin.com/in/kamilsabatowski",
+    "addressWithCountry": "Warsaw Metropolitan Area Poland",
+    "current_company_name": "Silnik Zdrowia",
+    "current_company_industry": "Health, Wellness & Fitness",
+    "current_company_url": "https://www.linkedin.com/company/silnik-zdrowia/",
+    "experiences": [
+      {
+        "title": "Podcast Host",
+        "subtitle": "Silnik Zdrowia · Self-employed",
+        "caption": "Nov 2025 - Present · 2 mos"
+      },
+      {
+        "title": "Selmo",
+        "subtitle": "undefined · 3 yrs 3 mos",
+        "caption": ""
+      },
+      {
+        "title": "Centrum Medycyny Konopnej",
+        "subtitle": "undefined · 4 yrs 9 mos",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "input": "julia-czernik",
+    "success": true,
+    "username": "julia-czernik",
+    "publicIdentifier": "julia-czernik",
+    "fullName": "Julia  Czernik",
+    "firstName": "Julia ",
+    "lastName": "Czernik",
+    "headline": "Founding GTM @ Solvemed",
+    "about": "I've been building since high school, starting with a Microsoft-sponsored think tank in the US, then sales in the Czech Republic while financing my own education. Working across countries and industries, I moved into consulting, where I developed a taste for diagnosing complexity and designing how things should work. I'm drawn to environments where analytical rigor and creativity coexist, which le",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQEZhzp9EgkMig/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1591173346427?e=1778112000&v=beta&t=KPNrQsytm32Y3oFgGReLzLejRwIBXxo2LMDAbXYBSNE",
+    "profileUrl": "https://www.linkedin.com/in/julia-czernik",
+    "addressWithCountry": "United States undefined",
+    "current_company_name": "Solvemed | PuRe Pupillometer",
+    "current_company_industry": "Medical Device",
+    "current_company_url": "https://www.linkedin.com/company/solvemed-ai/",
+    "experiences": [
+      {
+        "title": "Founding GTM",
+        "subtitle": "Solvemed Group · Full-time",
+        "caption": "May 2024 - Present · 1 yr 8 mos"
+      },
+      {
+        "title": "Co-Founder",
+        "subtitle": "Movers and Makers · Full-time",
+        "caption": "Feb 2026 - Present · "
+      },
+      {
+        "title": "Accenture",
+        "subtitle": "Full-time · 2 yrs 3 mos",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "input": "sanaross",
+    "success": true,
+    "username": "sanaross",
+    "publicIdentifier": "sanaross",
+    "fullName": "Snizhana S.",
+    "firstName": "Snizhana",
+    "lastName": "S.",
+    "headline": "Chief Operating Officer @ Techosystem | Operations Management · Strategic Planning · P&L · AI-Native Operator | I build the operating system so founders can build the product.",
+    "about": "I build operating systems. Founders bring the vision — I make it executable.  COO with 15+ years across financial management, operations, and organisational scaling in tech environments. Currently leading operations at Techosystem, a paid union of 100+ Ukrainian tech companies and investors.  Core areas of expertise: → Operations Management &amp; Process Improvement — designing the infrastructure ",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFf438w_4NWzA/profile-displayphoto-crop_800_800/B4DZ0O3taHIAAI-/0/1774070979039?e=1778112000&v=beta&t=Vw9BcU6AgtChWpmbDJSRBMHgzC9utW25-RCA5KQLJZk",
+    "profileUrl": "https://www.linkedin.com/in/sanaross",
+    "addressWithCountry": "Cracow Metropolitan Area Poland",
+    "current_company_name": "Techosystem",
+    "current_company_industry": "Non-profit Organization Management",
+    "current_company_url": "https://www.linkedin.com/company/uatechosystem/",
+    "experiences": [
+      {
+        "title": "Chief Operating Officer",
+        "subtitle": "Techosystem",
+        "caption": "Jul 2025 - Present · 6 mos"
+      },
+      {
+        "title": "Mentor to Startup Founders [Operations & Finance]",
+        "subtitle": "Startup Wise Guys · Part-time",
+        "caption": "Feb 2023 - Mar 2025 · 2 yrs 1 mo"
+      },
+      {
+        "title": "Chief Operating Officer",
+        "subtitle": "Finance PM · Full-time",
+        "caption": "Jul 2020 - Sep 2024 · 4 yrs 2 mos"
+      }
+    ]
+  },
+  {
+    "input": "matekowalczyk",
+    "success": true,
+    "username": "matekowalczyk",
+    "publicIdentifier": "matekowalczyk",
+    "fullName": "Mateusz Kowalczyk",
+    "firstName": "Mateusz",
+    "lastName": "Kowalczyk",
+    "headline": "CEO @ Foodsi",
+    "about": "As the CEO and Co-Founder of Foodsi, I lead a global marketplace that helps retailers sell surplus food, reducing waste and supporting sustainability. With over 5 years of experience in this role, I have successfully scaled the business and expanded its reach to various markets. I am also a mentor at foodtech.ac, where I support startups and innovators in the food technology sector, sharing my exp",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHoeHLnIYfKJw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1663762581075?e=1778112000&v=beta&t=mQw1tJxwOK_X9nzEpYCn4BG_IsQRsWJHfcoVf9hWdsI",
+    "profileUrl": "https://www.linkedin.com/in/matekowalczyk",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "Foodsi",
+    "current_company_industry": "Food & Beverages",
+    "current_company_url": "https://www.linkedin.com/company/foodsipl/",
+    "experiences": [
+      {
+        "title": "CEO & Co-Founder",
+        "subtitle": "Foodsi",
+        "caption": "Dec 2019 - Present · 6 yrs 1 mo"
+      },
+      {
+        "title": "Mentor",
+        "subtitle": "foodtech.ac",
+        "caption": "Apr 2021 - Present · 4 yrs 9 mos"
+      },
+      {
+        "title": "ReaktorX 8th batch",
+        "subtitle": "ReaktorX",
+        "caption": "Nov 2020 - Feb 2021 · 3 mos"
+      }
+    ]
+  },
+  {
+    "input": "rado-cuha",
+    "success": true,
+    "username": "rado-cuha",
+    "publicIdentifier": "rado-cuha",
+    "fullName": "Radoslav Čuha",
+    "firstName": "Radoslav",
+    "lastName": "Čuha",
+    "headline": "VC @ Portfolion | Early stage investor",
+    "about": "Backing outliers. Super early. CEE + diaspora.(cautious)Techno-optimist and stubborn believer in Europe’s potential.Interested in understanding the invisible systems shaping our lives.",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFsmKndAguekw/profile-displayphoto-scale_100_100/B4DZ0hwI41IEAg-/0/1774387766608?e=1778112000&v=beta&t=9XuLn7a11Wtq8l3JZMTwWaB738U_PQNqgWHqKxFp6ys",
+    "profileUrl": "https://www.linkedin.com/in/rado-cuha",
+    "addressWithCountry": "Prague, Czechia Czechia",
+    "current_company_name": "Portfolion",
+    "current_company_industry": "Venture Capital & Private Equity",
+    "current_company_url": "https://www.linkedin.com/company/portfolionvc/",
+    "experiences": [
+      {
+        "title": "Investor",
+        "subtitle": "Portfolion · Full-time",
+        "caption": "Mar 2026 - Present · "
+      },
+      {
+        "title": "Associate",
+        "subtitle": "PurposeTech · Full-time",
+        "caption": "Jan 2024 - Mar 2026 · 2 yrs 2 mos"
+      },
+      {
+        "title": "Analyst",
+        "subtitle": "BNP Paribas CIB · Full-time",
+        "caption": "2022 - 2024 · 2 yrs"
+      }
+    ]
+  },
+  {
+    "input": "wdrzewakowski",
+    "success": true,
+    "username": "wdrzewakowski",
+    "publicIdentifier": "wdrzewakowski",
+    "fullName": "Witold Drzewakowski",
+    "firstName": "Witold",
+    "lastName": "Drzewakowski",
+    "headline": "ELLIS PhD Student @ Warsaw U | Chair AI Olympiad Scientific Committee",
+    "about": "PhD student in Machine Learning at the University of Warsaw. Interested in NLP, Reinforcement Learning and whatever lies in between. I am working on novel LLM fine-tuning protocols. I am proud to coach Team Poland for the International Olympiad in AI.",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEKFnh7CGbdkw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1689276830428?e=1778112000&v=beta&t=Rk8zeQjgWW4DQjUzKWHIiBEjsFZEpGdmi-AiYnORrNE",
+    "profileUrl": "https://www.linkedin.com/in/wdrzewakowski",
+    "addressWithCountry": "Warsaw Metropolitan Area Poland",
+    "current_company_name": "IDEAS Research Institute",
+    "current_company_industry": "Research",
+    "current_company_url": "https://www.linkedin.com/company/ideas-research-institute/",
+    "experiences": [
+      {
+        "title": "Doctoral Researcher",
+        "subtitle": "IDEAS Research Institute · Full-time",
+        "caption": "Feb 2026 - Present · "
+      },
+      {
+        "title": "Olimpiada Sztucznej Inteligencji",
+        "subtitle": "undefined · 2 yrs",
+        "caption": ""
+      },
+      {
+        "title": "Research Assistant",
+        "subtitle": "IDEAS NCBR",
+        "caption": "Nov 2023 - Jan 2025 · 1 yr 2 mos"
+      }
+    ]
+  },
+  {
+    "input": "kprzybylak",
+    "success": true,
+    "username": "kprzybylak",
+    "publicIdentifier": "kprzybylak",
+    "fullName": "🚀Krzysztof Przybylak",
+    "firstName": "🚀Krzysztof",
+    "lastName": "Przybylak",
+    "headline": "Operations @ Chainloop.dev",
+    "about": ".",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQEa6qGG-UToGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728408976186?e=1778112000&v=beta&t=JPJucyarLmgzMoTv_Fb57kRrqTZZPml3ifoUdPsZYzE",
+    "profileUrl": "https://www.linkedin.com/in/kprzybylak",
+    "addressWithCountry": "Poland undefined",
+    "current_company_name": "Chainloop",
+    "current_company_industry": "Computer Software",
+    "current_company_url": "https://www.linkedin.com/company/chainloop-dev/",
+    "experiences": [
+      {
+        "title": "Founding Team - Head of Operations",
+        "subtitle": "Chainloop",
+        "caption": "Oct 2025 - Present · 3 mos"
+      },
+      {
+        "title": "Board Member",
+        "subtitle": "Ingenix.ai",
+        "caption": "Dec 2024 - Present · 1 yr 1 mo"
+      },
+      {
+        "title": "Co-Founder",
+        "subtitle": "Young Operators",
+        "caption": "Jan 2024 - Dec 2025 · 1 yr 11 mos"
+      }
+    ]
+  },
+  {
+    "input": "wojciech-basinski",
+    "success": true,
+    "username": "wojciech-basinski",
+    "publicIdentifier": "wojciech-basinski",
+    "fullName": "Wojciech Basinski",
+    "firstName": "Wojciech",
+    "lastName": "Basinski",
+    "headline": "CTO @ Ona | Shaping the way healthcare operates.",
+    "about": "",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGnl8TAbHWikA/profile-displayphoto-scale_100_100/B4DZgQF7oeGgAc-/0/1752616647718?e=1778112000&v=beta&t=4RTTFGIcHR4F8UcMMzzNUQkYdp1P1BVbZegr2LxmvEk",
+    "profileUrl": "https://www.linkedin.com/in/wojciech-basinski",
+    "addressWithCountry": "San Francisco, California, United States United States",
+    "current_company_name": "Ona Health",
+    "current_company_industry": "Computer Software",
+    "current_company_url": "https://www.linkedin.com/company/ona-health-solutions/",
+    "experiences": [
+      {
+        "title": "CTO & Co-founder",
+        "subtitle": "Ona Health · Full-time",
+        "caption": "2025 - Present · 1 yr"
+      },
+      {
+        "title": "Software Engineer",
+        "subtitle": "CLOUDFIDE · Full-time",
+        "caption": "Apr 2023 - 2025 · 1 yr 9 mos"
+      },
+      {
+        "title": "Warsaw Startup Club Leader",
+        "subtitle": "Warsaw Startup Club",
+        "caption": "Dec 2022 - 2025 · 2 yrs 1 mo"
+      }
+    ]
+  },
+  {
+    "input": "pavelpetrek",
+    "success": true,
+    "username": "pavelpetrek",
+    "publicIdentifier": "pavelpetrek",
+    "fullName": "Pavel Petrek",
+    "firstName": "Pavel",
+    "lastName": "Petrek",
+    "headline": "General Partner at Tilia Impact Ventures",
+    "about": "Former tech CEO/engineering leader with great business acumen who's now on a mission to help impact founders in the CEE region to address the most pressing social and environmental issues through Tilia Impact Ventures fund.\n\nContact me at pavel@tilia.vc if you are one of those founders.\n\nEx VP at Avast, ex-CEO and co-founder at Inmite (CEE pioneer of mobile development in banking, telco, automotiv",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4D03AQGjtCeJmMiBeA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1648741682069?e=1778112000&v=beta&t=mwA_A3NNX00584cNjapWIiI41ryeFQPuvS99lfcQdHQ",
+    "profileUrl": "https://www.linkedin.com/in/pavelpetrek",
+    "addressWithCountry": "Prague, Czechia Czechia",
+    "current_company_name": "Tilia Impact Ventures",
+    "current_company_industry": "Financial Services",
+    "current_company_url": "https://www.linkedin.com/company/tilia-impact-ventures/",
+    "experiences": [
+      {
+        "title": "General Partner",
+        "subtitle": "Tilia Impact Ventures",
+        "caption": "May 2021 - Present · 4 yrs 8 mos"
+      },
+      {
+        "title": "Angel Investor",
+        "subtitle": "StockStory Inc.",
+        "caption": "Oct 2020 - Present · 5 yrs 3 mos"
+      },
+      {
+        "title": "Angel Investor",
+        "subtitle": "Qoobus",
+        "caption": "May 2020 - Present · 5 yrs 8 mos"
+      }
+    ]
+  },
+  {
+    "input": "arek-bielecki",
+    "success": true,
+    "username": "arek-bielecki",
+    "publicIdentifier": "arek-bielecki",
+    "fullName": "Arek Bielecki",
+    "firstName": "Arek",
+    "lastName": "Bielecki",
+    "headline": "Co-founder at Restimo | ex-Glovo & Rocket Internet",
+    "about": "Entrepreneur at heart with 10+ years of experience in building startups. Previously worked at Glovo and new ventures of Rocket Internet in Asia, having gained professional experience in 7 countries across 3 continents. Keen on strategy, operations, digital marketing, sales and business development.",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHMua_VCvBryA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1691156002156?e=1778112000&v=beta&t=rFKaEa2DXb7FwwSRgqGaKXdwdx6ZGRVLU4CLKSUwCIA",
+    "profileUrl": "https://www.linkedin.com/in/arek-bielecki",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "Restimo",
+    "current_company_industry": "Information Technology & Services",
+    "current_company_url": "https://www.linkedin.com/company/restimo-com/",
+    "experiences": [
+      {
+        "title": "Co-founder & COO",
+        "subtitle": "Restimo",
+        "caption": "Apr 2021 - Present · 4 yrs 9 mos"
+      },
+      {
+        "title": "Glovo",
+        "subtitle": "undefined · 1 yr 5 mos",
+        "caption": ""
+      },
+      {
+        "title": "Venture Developer",
+        "subtitle": "Rocket Internet SE",
+        "caption": "May 2014 - Feb 2016 · 1 yr 9 mos"
+      }
+    ]
+  },
+  {
+    "input": "michalkedrzynski",
+    "success": true,
+    "username": "michalkedrzynski",
+    "publicIdentifier": "michalkedrzynski",
+    "fullName": "Michał Kędrzyński",
+    "firstName": "Michał",
+    "lastName": "Kędrzyński",
+    "headline": "CTO at Sigma Clinic - An AI-native physician-in-the-loop digital clinic.",
+    "about": "",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQFLbe9S6Utwzw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629560535961?e=1778112000&v=beta&t=mAyy_l1xX8ZaYiMgvM7ysi4zrVqD7CbEG8yP14jYaX0",
+    "profileUrl": "https://www.linkedin.com/in/michalkedrzynski",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "Sigma Clinic",
+    "current_company_industry": "Hospital & Health Care",
+    "current_company_url": "https://www.linkedin.com/company/sigmaclinic/",
+    "experiences": [
+      {
+        "title": "Co-founder & CTO",
+        "subtitle": "Sigma Clinic · Full-time",
+        "caption": "Jun 2025 - Present · 7 mos"
+      },
+      {
+        "title": "Co-founder & CTO",
+        "subtitle": "Klub Zabawkowy · Full-time",
+        "caption": "Jul 2023 - Dec 2024 · 1 yr 5 mos"
+      },
+      {
+        "title": "Software Engineer SWE II",
+        "subtitle": "Google · Full-time",
+        "caption": "May 2022 - Feb 2023 · 9 mos"
+      }
+    ]
+  },
+  {
+    "input": "agata-staszak",
+    "success": true,
+    "username": "agata-staszak",
+    "publicIdentifier": "agata-staszak",
+    "fullName": "Agata Staszak",
+    "firstName": "Agata",
+    "lastName": "Staszak",
+    "headline": "Co-founder & CEO @ Syntro - Smart Literature Screening for Medical Writers",
+    "about": "Entrepreneurial spirit, driven by a passion for startups and cutting-edge technology.",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQEbIaPxQUh4CQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1700736044058?e=1778112000&v=beta&t=ivbwGqCOkCe9vxv_2mAG-fjRITefnLHXz7fxpCCTMOo",
+    "profileUrl": "https://www.linkedin.com/in/agata-staszak",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "Syntro",
+    "current_company_industry": "Computer Software",
+    "current_company_url": "https://www.linkedin.com/company/syntro-ai/",
+    "experiences": [
+      {
+        "title": "Co-Founder & CEO",
+        "subtitle": "Syntro · Full-time",
+        "caption": "Oct 2024 - Present · 1 yr 3 mos"
+      },
+      {
+        "title": "COO/CFO",
+        "subtitle": "AgronetPRO · Full-time",
+        "caption": "Nov 2021 - Mar 2023 · 1 yr 4 mos"
+      },
+      {
+        "title": " EdTech Hub Ventures",
+        "subtitle": "Full-time · 1 yr 9 mos",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "input": "mateuszkozak",
+    "success": true,
+    "username": "mateuszkozak",
+    "publicIdentifier": "mateuszkozak",
+    "fullName": "Matt Kozak",
+    "firstName": "Matt",
+    "lastName": "Kozak",
+    "headline": "CTO @ Pstryk // I build things. // climate tech // sustainability // AI",
+    "about": "Changing the Polish energy market as a CTO at Pstryk - the most advanced dynamic tariff provider in the country!\n\nWith almost two decades of hands-on experience in software development, systems architecture, networking, and engineering best practices, I build AI-based solutions using either cloud-based or locally run large language model (LLM) models.\nIf you want to discuss LoRaWAN and smart citie",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHxeHO97hj6Kw/profile-displayphoto-scale_400_400/B4DZmKcFviIcAg-/0/1758964244421?e=1778112000&v=beta&t=88eT2VxwujYmTdCuXq9oe8G3YE29wEvdyUn8nv_Cnzk",
+    "profileUrl": "https://www.linkedin.com/in/mateuszkozak",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "Pstryk",
+    "current_company_industry": "Consumer Services",
+    "current_company_url": "https://www.linkedin.com/company/pstrykenergia/",
+    "experiences": [
+      {
+        "title": "Chief Technology Officer",
+        "subtitle": "Pstryk · Full-time",
+        "caption": "Jan 2024 - Present · 2 yrs"
+      },
+      {
+        "title": "Founder",
+        "subtitle": "Codeboards",
+        "caption": "Dec 2025 - Present · 1 mo"
+      },
+      {
+        "title": "Founder",
+        "subtitle": "Work in Green",
+        "caption": "Jan 2022 - Present · 4 yrs"
+      }
+    ]
+  },
+  {
+    "input": "oskarwojcikiewicz",
+    "success": true,
+    "username": "oskarwojcikiewicz",
+    "publicIdentifier": "oskarwojcikiewicz",
+    "fullName": "Oskar Wójcikiewicz",
+    "firstName": "Oskar",
+    "lastName": "Wójcikiewicz",
+    "headline": "Co-Founder @ slimtwin. Weight loss is broken, and we’re fixing it.",
+    "about": "👨‍💻 I started writing code when I was 13, making mods for my favorite game. That turned into something bigger — I built a software agency in that niche, and we quickly became one of the top developers in the space, working with some of the biggest gaming communities in the US, UK, Canada, and Australia, serving 1.5 million unique players.\n\n⚙️ I love working on backend systems. My main stack is Typ",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFmCWZ4blh5Gw/profile-displayphoto-scale_400_400/B4EZrRoAg_HoAg-/0/1764453519055?e=1778112000&v=beta&t=P6VLLluNirHBLD7ZblR1-73KwAmsajoYrq8p6kY9sh0",
+    "profileUrl": "https://www.linkedin.com/in/oskarwojcikiewicz",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "slimtwin",
+    "current_company_industry": "Computer Software",
+    "current_company_url": "https://www.linkedin.com/company/slimtwin/",
+    "experiences": [
+      {
+        "title": "Co-Founder & CEO",
+        "subtitle": "slimtwin",
+        "caption": "Sep 2025 - Present · 4 mos"
+      },
+      {
+        "title": "Fellow",
+        "subtitle": "MD Fellowship",
+        "caption": "Nov 2024 - Present · 1 yr 2 mos"
+      },
+      {
+        "title": "Software Engineer",
+        "subtitle": "Fanscout · Contract",
+        "caption": "Apr 2025 - Aug 2025 · 4 mos"
+      }
+    ]
+  },
+  {
+    "input": "magnusthecollectioner",
+    "success": true,
+    "username": "magnusthecollectioner",
+    "publicIdentifier": "magnusthecollectioner",
+    "fullName": "Mikita Shchutski",
+    "firstName": "Mikita",
+    "lastName": "Shchutski",
+    "headline": "Member of Technical Staff (Gemini) @ Google | Alumni @ Entrepreneur First and Creative Destruction Lab | Enterprise Consultant to Big Pharma",
+    "about": "Graph, Language and Generative Modeling since 2017. I am an alumni of Entrepreneur First (backed by Demis Hassabis, CEO of Deepmind) and CDL Quantum (educated by University of Toronto, QS20). Graduate AI Specialization Audit at Stanford. Ex-Founder and Principal Scientist in Quantum and Pharma Spaces. Consultant to Big Pharma (IQVIA, J&amp;J, Thermo-Fisher, Novartis). Co-founder and Mentor at Data",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFiOog_E-fyKg/profile-displayphoto-scale_100_100/B4DZm.545RJcAc-/0/1759844485481?e=1778112000&v=beta&t=R-kbPF7VQZ0rfk3ET7r9Vy8DSU7wbNMIj9omL3afYpw",
+    "profileUrl": "https://www.linkedin.com/in/magnusthecollectioner",
+    "addressWithCountry": "Sunnyvale, California, United States United States",
+    "current_company_name": "Google",
+    "current_company_industry": "Computer Software",
+    "current_company_url": "https://www.linkedin.com/company/google/",
+    "experiences": [
+      {
+        "title": "Member of Technical Staff",
+        "subtitle": "Google · Full-time",
+        "caption": "Oct 2025 - Present · 3 mos"
+      },
+      {
+        "title": "Enterprise Consultant",
+        "subtitle": "Big Pharma · Self-employed",
+        "caption": "Jan 2022 - Present · 4 yrs"
+      },
+      {
+        "title": "Regional Lead – Warsaw, Poland",
+        "subtitle": "TechBio Transformers",
+        "caption": "Jan 2025 - Present · 1 yr"
+      }
+    ]
+  },
+  {
+    "input": "wsobinski",
+    "success": true,
+    "username": "wsobinski",
+    "publicIdentifier": "wsobinski",
+    "fullName": "Wojciech Sobiński",
+    "firstName": "Wojciech",
+    "lastName": "Sobiński",
+    "headline": "CS & Maths @ University of Warsaw | ICPC AMPPZ silver medalist | ex-SWE Intern @ Goldman Sachs, TSMC",
+    "about": "",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4E03AQFhRCspSYupgQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1687743697803?e=1778112000&v=beta&t=j-S3zhkLMbnuKP1RCTrHfabMfnAIMPj8XlAENGb4LSs",
+    "profileUrl": "https://www.linkedin.com/in/wsobinski",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "Quantitative Finance Student Research Group MIMUW",
+    "current_company_industry": "Higher Education",
+    "current_company_url": "https://www.linkedin.com/company/knfo/",
+    "experiences": [
+      {
+        "title": "Member",
+        "subtitle": "Quantitative Finance Student Research Group MIMUW",
+        "caption": "Apr 2025 - Present · 9 mos"
+      },
+      {
+        "title": "Summer Analyst",
+        "subtitle": "Goldman Sachs · Internship",
+        "caption": "Jul 2025 - Sep 2025 · 2 mos"
+      },
+      {
+        "title": "Linear Algebra Grader",
+        "subtitle": "University of Warsaw",
+        "caption": "Oct 2024 - Jun 2025 · 8 mos"
+      }
+    ]
+  },
+  {
+    "input": "grzegorz-majgier",
+    "success": true,
+    "username": "grzegorz-majgier",
+    "publicIdentifier": "grzegorz-majgier",
+    "fullName": "Greg Majgier",
+    "firstName": "Greg",
+    "lastName": "Majgier",
+    "headline": "CTO @ Morphes | Collaborative AI Platform for Preclinical Toxicology Research ",
+    "about": "",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQH2y4W45U3-bw/profile-displayphoto-scale_400_400/B4DZvsXm4YIQAg-/0/1769197170806?e=1778112000&v=beta&t=tpB5eczTeQAcVz5D-l-I1yDNbIV3VV83Dt4v581NhyQ",
+    "profileUrl": "https://www.linkedin.com/in/grzegorz-majgier",
+    "addressWithCountry": "Cracow, Małopolskie, Poland Poland",
+    "current_company_name": "Morphes Labs",
+    "current_company_industry": "Government Administration",
+    "current_company_url": "https://www.linkedin.com/company/morphes-labs/",
+    "experiences": [
+      {
+        "title": "Founder CTO",
+        "subtitle": "Morphes Labs · Full-time",
+        "caption": "Oct 2025 - Present · 3 mos"
+      },
+      {
+        "title": "Fellow",
+        "subtitle": "MD Fellowship · Self-employed",
+        "caption": "Jan 2026 - Present · "
+      },
+      {
+        "title": "Research Fellow",
+        "subtitle": "Koło Naukowe AI Med AGH · Part-time",
+        "caption": "Oct 2025 - Present · 3 mos"
+      }
+    ]
+  },
+  {
+    "input": "ivo-john",
+    "success": true,
+    "username": "ivo-john",
+    "publicIdentifier": "ivo-john",
+    "fullName": "Ivo John, MD, Eng.",
+    "firstName": "Ivo",
+    "lastName": "John, MD, Eng.",
+    "headline": "Building the future of mind-machine symbiosis.",
+    "about": "The next leap in human progress will be defined by how we bridge mind and machine. The ultimate goal is to change how we shape the world by changing how we translate thoughts into impact.Leveraging my cross-disciplinary background as an MD/engineer and vast experience in leading AI projects, I'm building the full-stack technology to make this future possible.",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQF8UNNvmoAbqw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701389905353?e=1778112000&v=beta&t=lvdzrF8OFQkFTYXulnNO9EHvXFjH3oq1m2MQJoVZVTQ",
+    "profileUrl": "https://www.linkedin.com/in/ivo-john",
+    "addressWithCountry": "Warsaw Metropolitan Area Poland",
+    "current_company_name": "UCL",
+    "current_company_industry": "Research",
+    "current_company_url": "https://www.linkedin.com/school/university-college-london/",
+    "experiences": [
+      {
+        "title": "Guest Lecturer",
+        "subtitle": "UCL",
+        "caption": "Feb 2023 - Present · 2 yrs 11 mos"
+      },
+      {
+        "title": "Guest Lecturer",
+        "subtitle": "IE University",
+        "caption": "Nov 2023 - Dec 2024 · 1 yr 1 mo"
+      },
+      {
+        "title": "Clinical AI Researcher, AI/ML Engineer",
+        "subtitle": "Solvemed Group",
+        "caption": "Sep 2021 - Jun 2024 · 2 yrs 9 mos"
+      }
+    ]
+  },
+  {
+    "input": "andy-m-gray",
+    "success": true,
+    "username": "andy-m-gray",
+    "publicIdentifier": "andy-m-gray",
+    "fullName": "Andrew Gray",
+    "firstName": "Andrew",
+    "lastName": "Gray",
+    "headline": "General Partner @ Tilia Impact Ventures",
+    "about": "Contact me at andrew@tilia.vc to share your vision.\n\nTilia Impact ventures - We support mission-driven founders from the CEE region to make global change in the areas of Climate, Education, Healthcare and AI for Good.\n\nEx tech-for-good entrepreneur, with international COO/CFO experience in early stage tech companies. Former strategy consultant. Cambridge University MBA.",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGrQP2mLgUAdQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698756299684?e=1778112000&v=beta&t=lwxqG4OfWl7nyD33j5mogiSeDbOqvuNeLcd-NHr8ioQ",
+    "profileUrl": "https://www.linkedin.com/in/andy-m-gray",
+    "addressWithCountry": "Prague, Czechia Czechia",
+    "current_company_name": "Tilia Impact Ventures",
+    "current_company_industry": "Financial Services",
+    "current_company_url": "https://www.linkedin.com/company/tilia-impact-ventures/",
+    "experiences": [
+      {
+        "title": "General Partner",
+        "subtitle": "Tilia Impact Ventures · Full-time",
+        "caption": "Jul 2021 - Present · 4 yrs 6 mos"
+      },
+      {
+        "title": "Angel Investor / Advisor",
+        "subtitle": "Brolly",
+        "caption": "Jun 2020 - Present · 5 yrs 7 mos"
+      },
+      {
+        "title": "Board Member",
+        "subtitle": "Cyrkl",
+        "caption": "Dec 2021 - Aug 2023 · 1 yr 8 mos"
+      }
+    ]
+  },
+  {
+    "input": "eryk-frontczak",
+    "success": true,
+    "username": "eryk-frontczak",
+    "publicIdentifier": "eryk-frontczak",
+    "fullName": "Eryk Frontczak",
+    "firstName": "Eryk",
+    "lastName": "Frontczak",
+    "headline": "Venture Partner @ Contrarian Ventures | Building AI governance tools",
+    "about": "Ex-VC turned operator. Scaled a portfolio company from 0 to €15M+ in contracted revenue.\nNow working on AI data governance - enabling companies to use AI safely and effectively without compromising data security.\n\nVenture Partner at Contrarian Ventures - always happy to connect with climate tech founders.",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHpeLscbeItkg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677060896137?e=1778112000&v=beta&t=i5T4Fo493NEduSNFwpqJnif3mAzYMRqmUbx73Oltffc",
+    "profileUrl": "https://www.linkedin.com/in/eryk-frontczak",
+    "addressWithCountry": "Germany undefined",
+    "current_company_name": "Contrarian Ventures",
+    "current_company_industry": "Venture Capital & Private Equity",
+    "current_company_url": "https://www.linkedin.com/company/contrarian-ventures/",
+    "experiences": [
+      {
+        "title": "Venture Partner",
+        "subtitle": "Contrarian Ventures",
+        "caption": "Apr 2023 - Present · 2 yrs 9 mos"
+      },
+      {
+        "title": "InSoil",
+        "subtitle": "Full-time · 2 yrs 9 mos",
+        "caption": ""
+      },
+      {
+        "title": "bValue Fund",
+        "subtitle": "Full-time · 2 yrs 11 mos",
+        "caption": ""
+      }
+    ]
+  },
+  {
+    "input": "zambrzyckik",
+    "success": true,
+    "username": "zambrzyckik",
+    "publicIdentifier": "zambrzyckik",
+    "fullName": "Kacper Zambrzycki",
+    "firstName": "Kacper",
+    "lastName": "Zambrzycki",
+    "headline": "founder at Nugget | community @ [bldrs], five degrees",
+    "about": "",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQEIviC9jg6rrA/profile-displayphoto-shrink_800_800/B4DZdKgKlAGkAc-/0/1749301635778?e=1778112000&v=beta&t=Dffhnog1aJd8acDKOmmMnPsfjzUThWe7UIKIabiCB-o",
+    "profileUrl": "https://www.linkedin.com/in/zambrzyckik",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "five degrees",
+    "current_company_industry": "Computer Software",
+    "current_company_url": "https://www.linkedin.com/company/joinfivedegrees/",
+    "experiences": [
+      {
+        "title": "Poland",
+        "subtitle": "five degrees",
+        "caption": "Jan 2026 - Present · "
+      },
+      {
+        "title": "Building",
+        "subtitle": "[bldrs]",
+        "caption": "Nov 2025 - Present · 2 mos"
+      },
+      {
+        "title": "Poland",
+        "subtitle": "Next Play",
+        "caption": "Feb 2025 - Present · 11 mos"
+      }
+    ]
+  },
+  {
+    "input": "adam-janczewski-5362995a",
+    "success": true,
+    "username": "adam-janczewski-5362995a",
+    "publicIdentifier": "adam-janczewski-5362995a",
+    "fullName": "Adam Janczewski",
+    "firstName": "Adam",
+    "lastName": "Janczewski",
+    "headline": "Founder @ Jutro Medical | We're hiring!",
+    "about": "Playing only long-term multiple-round games with high integrity people.",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHxB7uGSr40Kg/profile-displayphoto-scale_400_400/B56ZvSeplgIYAg-/0/1768762812925?e=1778112000&v=beta&t=zqP7kFEGbD5AhrDiXdz8rHzeQspoTp96k19Qw_S2aDk",
+    "profileUrl": "https://www.linkedin.com/in/adam-janczewski-5362995a",
+    "addressWithCountry": "Miński, Mazowieckie, Poland Poland",
+    "current_company_name": "Jutro Medical",
+    "current_company_industry": "Health, Wellness & Fitness",
+    "current_company_url": "https://www.linkedin.com/company/jutromedical/",
+    "experiences": [
+      {
+        "title": "Founder & CEO",
+        "subtitle": "Jutro Medical",
+        "caption": "Jan 2020 - Present · 6 yrs"
+      },
+      {
+        "title": "Co-Founder",
+        "subtitle": "SaveMyTime",
+        "caption": "Jul 2015 - Feb 2019 · 3 yrs 7 mos"
+      },
+      {
+        "title": "Head of Product",
+        "subtitle": "Kiwi Jobs",
+        "caption": "Jan 2017 - Jun 2018 · 1 yr 5 mos"
+      }
+    ]
+  },
+  {
+    "input": "marcinwaryszak",
+    "success": true,
+    "username": "marcinwaryszak",
+    "publicIdentifier": "marcinwaryszak",
+    "fullName": "Marcin Waryszak",
+    "firstName": "Marcin",
+    "lastName": "Waryszak",
+    "headline": "Children’s Mental Health | Forbes 30 under 30 | 🔴 TEDx Speaker | Sigma² Fellow | Founder",
+    "about": "My first ’business’? I was 12 years old. Together with a group of friends (co-founders!), we invested in a kettle, tea, instant coffee, coconut shrimp, chocolate, and a train ticket to Berlin. On our first day there, we made a Bounty cake and started selling. The investment paid off, we spent all the money having fun and then returned to Warsaw, back to school.\n\nNow I am an entrepreneur and strate",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQHYoFj4rv1d3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727711313941?e=1778112000&v=beta&t=-gTddb5DjCQx7xpbbLQ1Qm1ttsX4oUCCnoEKesSBhRw",
+    "profileUrl": "https://www.linkedin.com/in/marcinwaryszak",
+    "addressWithCountry": "Poland undefined",
+    "current_company_name": "Calmsie",
+    "current_company_industry": "Mental Health Care",
+    "current_company_url": "https://www.linkedin.com/company/calmsie/",
+    "experiences": [
+      {
+        "title": "Chief Executive Officer & Founder",
+        "subtitle": "Calmsie · Full-time",
+        "caption": "Mar 2023 - Present · 2 yrs 10 mos"
+      },
+      {
+        "title": "Consultant",
+        "subtitle": "NeuralPositive",
+        "caption": "Mar 2025 - Present · 10 mos"
+      },
+      {
+        "title": "Advisor",
+        "subtitle": "Ministerstwo Zdrowia · Freelance",
+        "caption": "Oct 2023 - Present · 2 yrs 3 mos"
+      }
+    ]
+  },
+  {
+    "input": "p-grzegorczyk",
+    "success": true,
+    "username": "p-grzegorczyk",
+    "publicIdentifier": "p-grzegorczyk",
+    "fullName": "Piotr Grzegorczyk",
+    "firstName": "Piotr",
+    "lastName": "Grzegorczyk",
+    "headline": "CEO at Deepflare.ai | Better vaccines faster",
+    "about": "I am theoretical mathematician turned biotech entrepreneur. What started as a side project for modelling COVID-19 mutations, turned into a lifetime project of supporting development of better vaccines, faster.\n\nDeepflare's AI platform allows vaccine developers to move beyond binding affinity and predict true T-cell immunogenicity. We have de-risked and accelerated vaccine discovery process for pha",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGN8tBhvyhuxA/profile-displayphoto-crop_800_800/B4DZmxHiBZH4AM-/0/1759613167937?e=1778112000&v=beta&t=lF-Pf-wiBUgMMwoZyGwgsrm8kMNYNDgTAyTaYbXKI3M",
+    "profileUrl": "https://www.linkedin.com/in/p-grzegorczyk",
+    "addressWithCountry": "Cambridge, Massachusetts, United States United States",
+    "current_company_name": "Deepflare",
+    "current_company_industry": "Biotechnology",
+    "current_company_url": "https://www.linkedin.com/company/deepflare/",
+    "experiences": [
+      {
+        "title": "Co-Founder & CEO",
+        "subtitle": "Deepflare · Full-time",
+        "caption": "Mar 2020 - Present · 5 yrs 10 mos"
+      },
+      {
+        "title": "Venture Scout",
+        "subtitle": "EWOR",
+        "caption": "Aug 2022 - Present · 3 yrs 5 mos"
+      },
+      {
+        "title": "Fellow",
+        "subtitle": "On Deck",
+        "caption": "Sep 2021 - Present · 4 yrs 4 mos"
+      }
+    ]
+  },
+  {
+    "input": "woocashh",
+    "success": true,
+    "username": "woocashh",
+    "publicIdentifier": "woocashh",
+    "fullName": "Lukasz Jakubowski",
+    "firstName": "Lukasz",
+    "lastName": "Jakubowski",
+    "headline": "Media for Critical Sectors (Med/Gov) @ Proclaim | ex-Palantir FDE | Imperial (MEng AI)",
+    "about": "Agency growth is often limited by bandwidth. You win the big contract, but then the scramble to find reliable talent begins.\n\nAt proclaim.studio, we act as an extension of your creative team. We understand agency workflows, tight deadlines, and the need for white-label discretion.\n\nAgency founders: Let's discuss a partnership.",
+    "profilePic": "https://media.licdn.com/dms/image/v2/C4E03AQEqCQYUBUaO8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1642362046916?e=1778112000&v=beta&t=qj8ZRCzvRPHdqvkY1TxsQG7dPf3z_FvCPassvVzVh4U",
+    "profileUrl": "https://www.linkedin.com/in/woocashh",
+    "addressWithCountry": "United Kingdom undefined",
+    "current_company_name": "Proclaim Studio",
+    "current_company_industry": "Marketing & Advertising",
+    "current_company_url": "https://www.linkedin.com/company/proclaim-studio/",
+    "experiences": [
+      {
+        "title": "Founder",
+        "subtitle": "proclaim.studio · Full-time",
+        "caption": "Oct 2025 - Present · 3 mos"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "subtitle": "Fourth Age · Part-time",
+        "caption": "Jun 2025 - Present · 7 mos"
+      },
+      {
+        "title": "Forward Deployed Software Engineer ",
+        "subtitle": "Palantir Technologies · Full-time",
+        "caption": "Jul 2023 - Apr 2025 · 1 yr 9 mos"
+      }
+    ]
+  },
+  {
+    "input": "ratajczakm",
+    "success": true,
+    "username": "ratajczakm",
+    "publicIdentifier": "ratajczakm",
+    "fullName": "Michał Ratajczak",
+    "firstName": "Michał",
+    "lastName": "Ratajczak",
+    "headline": "Founder & CEO @ Gridaly | Forbes 30u30 | Sigma² | Event&Networking Expert",
+    "about": "As the CEO and Co-Founder of Gridaly, an all-in-one B2B event management software, I lead the business strategy, sales, marketing, and company management. \n\nGridaly's mission is to boost the event experience. Gridaly's vision is to ensure that all event processes are seamless. Whether the purpose is entertainment, business, networking, or any other, events should serve their goals without causing ",
+    "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQE5h3PH3eBSgA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1691396792245?e=1778112000&v=beta&t=HRqnr9YkdGeM8YD7oPBBqWmzfkLggh4bvTdcEMmPY3w",
+    "profileUrl": "https://www.linkedin.com/in/ratajczakm",
+    "addressWithCountry": "Warsaw, Mazowieckie, Poland Poland",
+    "current_company_name": "Gridaly",
+    "current_company_industry": "Marketing & Advertising",
+    "current_company_url": "https://www.linkedin.com/company/gridaly/",
+    "experiences": [
+      {
+        "title": "CEO & Co-Founder",
+        "subtitle": "Gridaly",
+        "caption": "Jun 2020 - Present · 5 yrs 7 mos"
+      },
+      {
+        "title": "Sigma Squared Fellow",
+        "subtitle": "Sigma Squared Society",
+        "caption": "Apr 2022 - Present · 3 yrs 9 mos"
+      },
+      {
+        "title": "McKinsey & Company",
+        "subtitle": "undefined · 4 mos",
+        "caption": ""
+      }
+    ]
+  }
+]
