@@ -148,7 +148,7 @@ function Attendees({ data }: { data: Attendee[] }) {
             marginBottom: "10px",
           }}
         >
-          [bldrs] · Warsaw · April 21, 2026
+          [bldrs] · Tilia · Sigma² · Portfolion — Warsaw · April 21, 2026
         </div>
         <h1
           style={{
